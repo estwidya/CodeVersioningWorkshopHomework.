@@ -1,1 +1,4 @@
 Dani said merging is integrating the changes made in one branch into another branch.
+
+$ git checkout main        
+$ git merge experiment-1
