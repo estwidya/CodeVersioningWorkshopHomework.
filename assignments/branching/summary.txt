@@ -1,0 +1,6 @@
+Dani said branching in a nutshell is a way to diverge from the current version.
+
+How to branching?
+$ git branch experiment-1            #  Create branch
+$ git checkout experiment-1          # Switch to branch
+$ git branch                         # List all branch
