@@ -1,1 +1,1 @@
-Dani said merging is integrating yje changes made in one branch into another branch.
+Dani said merging is integrating the changes made in one branch into another branch.
